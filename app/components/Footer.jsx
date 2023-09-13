@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="flex gap-3">
         <div>
           <h3 className="font-bold">Let&apos;s Chat</h3>
-          <ul className="flex gap-1 dark:text-sky-400 text-sky-600">
+          <ul className="flex gap-1 dark:text-blue-400 text-blue-600">
             <li>
               <a href="mailto:jennifer.tieuu@gmail.com">Email</a>
             </li>
